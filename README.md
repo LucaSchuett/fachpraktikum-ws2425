@@ -1,6 +1,7 @@
 # fachpraktikum-ws2425
 
 ## Fachpraktikum / Practical Course
+
 **Logic App Development**  
 PD Dr. Manfred Kufleitner
 
@@ -8,7 +9,7 @@ PD Dr. Manfred Kufleitner
 
 ### Course Overview
 
-You will build your own logic quiz application using Flutter/Dart and Go (aka Golang). Students will work on their own. The course consists of two parts:
+You will build your own logic quiz application using Flutter/Dart and Go. Students will work on their own. The course consists of two parts:
 
 1. **Introduction**: Formal logic, Flutter/Dart, and Go. Several small exercises will be provided, and successful completion of these tasks is a requirement for the second part.
 2. **Main Course**: Specification, implementation, and documentation of a mobile application. This part represents 100% of the total assessment of the course.
@@ -28,7 +29,7 @@ Users of the app should answer multiple choice questions and track their progres
 ### Passing Criteria
 
 - Achieve at least 40% of the total marks.
-- The first component must be fully functional. 
+- The first component must be fully functional.
   - Instead of implementing the third component, you can write a minimum of 10 quiz questions yourself and opt out of implementing the server side (you will not receive marks for these components if opted out).
 
 **Note**: You do not need to address encryption and security issues regarding the server side for this course.
@@ -38,16 +39,19 @@ Users of the app should answer multiple choice questions and track their progres
 ### Assessment Components
 
 1. **Specification of the App**:
+
    - In PDF format (no more than three pages).
    - Brief description of all three components.
    - Create mock screens for all user-facing screens (hand-drawn sketches are OK).
    - Submit at the beginning of the second part of the course.
 
 2. **Implementation Repository**:
+
    - A single git repository for all three components.
    - Provide full access to this repository for marking purposes.
 
 3. **Documentation Report**:
+
    - In PDF format, documenting the student’s work and actions taken to ensure high quality (e.g., unit testing, user research, etc.).
    - Includes a short user guide for each component.
 
